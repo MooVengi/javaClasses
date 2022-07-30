@@ -11,3 +11,4 @@ collections
 varabiles 
 access modifiers
 access specifer is not in java only in c++ lang
+intreview q/a

@@ -1,0 +1,12 @@
+Class 1
+ to we discuss about core java 
+  introduction 
+what is java?
+why we use java ?
+
+important topic of java:
+oops concepts
+string types 
+collections
+varabiles 
+access modifiers
